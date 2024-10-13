@@ -22,9 +22,9 @@ body {
 
 .letterView {
 
-  margin-top: 100px;
-  width: 350px;
-  height: 400px;
+  margin-top: 150px;
+  width: 300px;
+  height: 450px;
   background: linear-gradient(to bottom, rgba(223, 220, 25, 0.829), rgb(207, 127, 7));
   border-radius: 10px;
   border-style: double;
